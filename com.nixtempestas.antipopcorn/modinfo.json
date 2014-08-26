@@ -1,0 +1,10 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.nixtempestas.antipopcorn",
+    "display_name" : "Anti-Popcorn Units",
+    "description" : "Doubles health and defense damage to fix popcorniness",
+    "author" : "nixtempestas",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
