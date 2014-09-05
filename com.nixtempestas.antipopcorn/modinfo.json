@@ -2,13 +2,14 @@
     "enabled" : true,
     "context" : "server",
     "identifier" : "com.nixtempestas.antipopcorn",
-    "display_name" : "Anti-Popcorn Units",
+    "display_name" : "Anti-Popcorn Unit Re-Balance",
     "description" : "A simple balance mod to increase battle longevity",
     "date": "2014/08/27",
     "category": [
       "balance"
     ],
+    "forum": "https://forums.uberent.com/threads/rel-anti-popcorn-units.63209/",
     "author" : "nixtempestas",
-    "version" : "1.2.3",
+    "version" : "1.2.4",
     "signature" : "(not yet implemented)"
 }
