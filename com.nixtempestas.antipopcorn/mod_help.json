@@ -1,0 +1,13 @@
+{
+"topics": {
+    "Anti-Popcorn": "A simple balance mod designed to extend individual battles so that tactical decisions, like retreating, are viable. ",
+    "General Unit Changes": "Almost all units have their health doubled, see specific topics for exceptions",
+    "Inferno and Vanguard": "health set to 1.5x vanilla",
+    "Spinner": "Rate of Fire 1.5x vanilla",
+    "Combat Fabricators": "Range doubled",
+    "Point Defenses": "Rate of Fire doubled",
+    "Artillery and AA defenses": "Damage (including splash) doubled",
+    "Commander Changes": "main weapon damage doubled",
+    "Uber Cannon": "set to 1500 to allow 1 shot of infernos"
+    }
+}
