@@ -4,12 +4,12 @@
     "identifier" : "com.nixtempestas.antipopcorn",
     "display_name" : "Anti-Popcorn Unit Re-Balance",
     "description" : "A vanilla based balance mod dedicated to making units last long enough for tactical decisions to matter",
-    "date": "2015/03/21",
+    "date": "2015/06/10",
     "category": [
       "balance"
     ],
     "forum": "https://forums.uberent.com/threads/rel-anti-popcorn-units.63209/",
     "author" : "nixtempestas",
-    "version" : "1.4.5",
+    "version" : "1.4.6",
     "signature" : "(not yet implemented)"
 }
